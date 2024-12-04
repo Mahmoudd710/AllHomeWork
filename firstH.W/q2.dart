@@ -1,0 +1,1 @@
+//the start and the main fun in app
